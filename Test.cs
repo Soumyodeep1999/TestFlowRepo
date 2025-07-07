@@ -7,6 +7,6 @@ internal class Test
     [Test]
     public void Test1()
     {
-        Assert.Fail("Test");
+        Assert.Fail("T");
     }
 }
